@@ -1,4 +1,4 @@
-**This guide is not beginner-friendly! Making Nova addons requires a lot of knowledge about Kotlin, the Spigot API, Maven and Gradle.**
+**此指南不适合新人阅读！制作Nova组件需要大量关于Kotlin、SpigotAPI、Maven和Gradle的知识。**
 
 ## Prerequisites
 
